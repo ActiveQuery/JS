@@ -23,14 +23,14 @@
 
 
 
-[![](https://gpvc.arturio.dev/ActiveQ)](#)
-[![](https://img.shields.io/badge/ActiveQ%20Repo-ActivQuery.JS-brightgreen)](#)
+[![](https://gpvc.arturio.dev/ActiveQuery)](#)
+[![](https://img.shields.io/badge/ActiveQuery%20Repo-ActivQuery.JS-brightgreen)](#)
 [![](https://img.shields.io/badge/ActiveQuery%20JS-v25.6.0-brightgreen)](#)
 [![](https://img.shields.io/badge/ActivQuery%20Coverage-100%25-brightgreen)](#)
 [![](https://img.shields.io/badge/ActivQuery%20Dependencies-None%20-brightgreen)](#)
 [![](https://img.shields.io/badge/ActivQuery%20Open%20Source%20License-OSL%203.0-brightgreen)](#)
 [![](https://img.shields.io/badge/ActivQuery%20Governance-v21.0-brightgreen)](#)
-[![](https://img.shields.io/badge/ActivQuery%20Build-passing-brightgreen)](#)
+[![](https://img.shields.io/badge/ActivQuery%20Build-Passed-brightgreen)](#)
 
 
 
