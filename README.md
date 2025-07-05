@@ -3,7 +3,7 @@
 
 
 
-[![GitHub top language](https://img.shields.io/github/languages/top/ActiveQ/AQJS?style=for-the-badge&color=brightgreen&label=Javacript&logo=javascript)](#)
+[![GitHub top language](https://img.shields.io/github/languages/top/ActiveQuery/JS?style=for-the-badge&color=brightgreen&label=Javacript&logo=javascript)](#)
 
 [![](https://img.shields.io/badge/HTML%205-1F618D?logo=html5&logoColor=white)](#)
 [![](https://img.shields.io/badge/Android-1F618D?logo=android&logoColor=white)](#)
