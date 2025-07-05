@@ -82,8 +82,8 @@ Please refer to [`license`](./LICENSE.txt) for the full license terms.
 
 This project includes and integrates code from the following external libraries. These libraries come with their own licenses, and all original license terms remain applicable. License notices are provided in the [`license`](./license.txt) file.
 
-- **[Array.sortBy Function]([https://github.com/JaniRefsnes/w3css](https://github.com/eneko/Array.sortBy))**  
-- **[isJSON Function]([https://github.com/necolas/normalize.cs](https://github.com/joaquimserafim/is-json)s)**
+- **[Array.sortBy Function](https://github.com/eneko/Array.sortBy)**  
+- **[isJSON Function](https://github.com/necolas/normalize.cs)**
 
 ---
 
