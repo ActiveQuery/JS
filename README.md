@@ -3,8 +3,17 @@
 
 
 
-[![GitHub top language](https://img.shields.io/github/languages/top/ActiveQuery/JS?style=for-the-badge&color=brightgreen&label=Javacript&logo=javascript)](#)
+[![](https://img.shields.io/badge/ActiveQuery%20Cascading%20Style%20Sheets%20(AQCSS)™-76448A)](#)
+[![](https://img.shields.io/badge/ActiveQuery%20Cascading%20JavaScript%20(AQJS)™-76448A)](#)
+[![](https://img.shields.io/badge/ActiveQuery%20Intelligence%20(AQI)™-76448A)](#)
+[![](https://img.shields.io/badge/ActiveQuery%20Progressive%20Enhancement%20(AQPE)™-76448A)](#)
+[![](https://img.shields.io/badge/ActiveQuery%20Stream%20(AQS)™-76448A)](#)
+[![](https://img.shields.io/badge/ActiveQuery%20Keep%20It%20Simple%20Smart%20(AQKISS)™-76448A)](#)
+[![](https://img.shields.io/badge/ActiveQuery%20Open%20Source%20Software%20(AQOSS)-76448A)](#)
 
+
+
+[![](https://img.shields.io/badge/JavaScript-1F618D?logo=javascript&logoColor=white)](#)
 [![](https://img.shields.io/badge/HTML%205-1F618D?logo=html5&logoColor=white)](#)
 [![](https://img.shields.io/badge/Android-1F618D?logo=android&logoColor=white)](#)
 [![](https://img.shields.io/badge/IOS-1F618D?logo=apple&logoColor=white)](#)
@@ -24,13 +33,6 @@
 [![](https://img.shields.io/badge/ActivQuery%20Build-passing-brightgreen)](#)
 
 
-[![](https://img.shields.io/badge/ActiveQuery%20Cascading%20Style%20Sheets%20(AQCSS)™-76448A)](#)
-[![](https://img.shields.io/badge/ActiveQuery%20Cascading%20JavaScript%20(AQJS)™-76448A)](#)
-[![](https://img.shields.io/badge/ActiveQuery%20Intelligence%20(AQI)™-76448A)](#)
-[![](https://img.shields.io/badge/ActiveQuery%20Progressive%20Enhancement%20(AQPE)™-76448A)](#)
-[![](https://img.shields.io/badge/ActiveQuery%20Stream%20(AQS)™-76448A)](#)
-[![](https://img.shields.io/badge/ActiveQuery%20Keep%20It%20Simple%20Smart%20(AQKISS)™-76448A)](#)
-[![](https://img.shields.io/badge/ActiveQuery%20Open%20Source%20Software%20(AQOSS)-76448A)](#)
 
 # ActiveQuery JavaScript
 
